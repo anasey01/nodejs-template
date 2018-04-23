@@ -12,5 +12,23 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0"
-  }
+  },
+  "description": "A barebones Node.js app using [Express 4](http://expressjs.com/).",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasey01/nodejs-template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "boilerplate",
+    "Javascript"
+  ],
+  "author": "Oluseyi Anani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasey01/nodejs-template/issues"
+  },
+  "homepage": "https://github.com/anasey01/nodejs-template#readme"
 }
